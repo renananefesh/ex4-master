@@ -186,7 +186,21 @@ document.addEventListener('DOMContentLoaded', async () => {
             console.error('no such user', error)
         }
     })
+//-----------------------------login js--------------------------------------------------------------------
+    document.getElementById('submitbutton').addEventListener('click', async () =>{
+        console.log("OK")
+    })
 
+
+
+
+
+
+
+
+
+
+//------------------------------functions-----------------------------------------------------------------
     const deleteerror=()=>{
         err.style.display='none'
         noRepose.style.display ='none'
