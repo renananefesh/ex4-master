@@ -1,0 +1,19 @@
+
+.form-group{
+  width: 250px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  /*text-align: center;*/
+
+
+}
+.btn-primary {
+  width: 100px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  text-align: center;
+}
